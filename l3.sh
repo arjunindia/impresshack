@@ -1,0 +1,1 @@
+cat /dev/urandom | hexdump | grep "ca fe"
